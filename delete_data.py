@@ -21,6 +21,6 @@ def search_data(from_date=None, to_date=None):
 
 
 if __name__ == '__main__':
-    # delete_data()
-    search_data()
+    delete_data()
+    # search_data()
     # search_data("2019-06-13 14:10", "2019-06-14 06:55")

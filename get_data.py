@@ -155,7 +155,6 @@ if __name__ == '__main__':
     to_date = "2019-06-14 06:55"
 
     run(from_date, to_date)
-    autoit.mouse_move(798,846)
 
 
 
